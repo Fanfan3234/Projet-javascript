@@ -1,0 +1,16 @@
+{
+  "videos": [
+    {
+      "id": "1665156418271",
+      "miniature": "https://i.ytimg.com/vi/mo2O1desNHA/maxresdefault.jpg",
+      "nom": "Les inconnus: le comissariat de police",
+      "lien": "https://www.youtube.com/watch?v=mo2O1desNHA"
+    },
+    {
+      "id": "1665164289907",
+      "miniature": "https://i.ytimg.com/vi/QuGcoOJKXT8/maxresdefault.jpg",
+      "nom": "Les inconnus: les chasseurs",
+      "lien": "https://www.youtube.com/watch?v=QuGcoOJKXT8&t=1s"
+    }
+  ]
+}
